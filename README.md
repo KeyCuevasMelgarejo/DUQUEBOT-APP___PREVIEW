@@ -5,11 +5,11 @@
 # DuqueBot - Demo
 ![](Demo.gif)
 
-# DuqueBot - Descripción del Proyecto
+# Descripción del Proyecto
 **ChatBot para soporte TI, proyecto que va de la mano con IBM Watson Assistant, tiene las siguientes caracteristicas:**
 - Recibir como respuesta texto o como tambien imagen.
 
-# DuqueBot - Inicialización
+# Inicialización
 
 **Clona y ejecuta el programa para ver a DuqueBot en uso**
 
