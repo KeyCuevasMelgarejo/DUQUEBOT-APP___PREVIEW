@@ -2,8 +2,10 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
-# DuqueBot - Demo
-![](Demo.gif)
+# DuqueBot App - Demo
+<p align="center"> 
+ <img src="/Demo.gif"/>
+</p>
 
 # Descripción del Proyecto
 **ChatBot para soporte TI, proyecto que va de la mano con IBM Watson Assistant, tiene las siguientes caracteristicas:**
